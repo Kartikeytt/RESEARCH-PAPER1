@@ -95,7 +95,8 @@ Public Engagement: Raising awareness about the benefits of environmental technol
 Conclusion
 
 Technology has the potential to play a transformative role in environmental protection and sustainability. Innovations in renewable energy, smart waste management, and environmental monitoring offer practical solutions to some of the most pressing environmental challenges. Continued research, policy support, and public engagement are vital for maximizing the benefits of these technologies and achieving a sustainable future.
-References
+
+Reference
 Smith, J. (2023). Advancements in Solar Energy Technology: A Review. arXiv. Retrieved from arXiv
 Johnson, A., & Lee, B. (2024). Wind Energy Innovations and Their Impact on Carbon Emissions. Google Scholar. Retrieved from Google Scholar
 Davis, M. (2023). Automated Waste Sorting Systems: A Review of Current Technologies and Future Prospects. SSRN. Retrieved from SSRN
